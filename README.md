@@ -1,8 +1,7 @@
 # Team TreeHouse
 Abhinav Selvaraj (Lead), Breanna Chi, Ken Ho, Prabhleen Bagri 
 
-## Who's That Pokemon
-https://github.com/wen1225/whos-that-pokemon
+
 
 ### Technologies Used
   #### [Frontend] HTML, CSS, React, MUI 
